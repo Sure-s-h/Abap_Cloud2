@@ -1,0 +1,58 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_RO_ORDER_PRICING==========CCAU.abap",
+   "fingerprint":"ZVqcVdNxs9J7+8mCgN3HqKVyBclvin5TYCAQvU3rBnNYDNDsFJsj2HbZkhyo272A6XZoq9Ma00Ci7reDko34kw=="
+  },
+  {
+   "name":"CINC ZCL_RO_ORDER_PRICING==========CCDEF.abap",
+   "fingerprint":"ZyTQXdu1fIi+EIq89s7//edEdkuYq+q3QTXisLQv5lJhPTWsNXfd0KGDXBwCfd211IN57P0WPoNlsXJApRUkxw=="
+  },
+  {
+   "name":"CINC ZCL_RO_ORDER_PRICING==========CCIMP.abap",
+   "fingerprint":"BheBcs2i2GwXH9NEnBwxbv0P6lbfJjct/lA8jmlpJ4iTrjFQ7FK8s2bEfQofw/+ExttU1heayUz+05dePd1JWg=="
+  },
+  {
+   "name":"CINC ZCL_RO_ORDER_PRICING==========CCMAC.abap",
+   "fingerprint":"uJiS2NdOgONXQvGpT1peaT04/LFFLKnqZl2lT+rl4TG6BetOFMNuh1MhW0dxlUs5CpsVHvU4D7tfGnBfDgEYig=="
+  },
+  {
+   "name":"CLAS ZCL_RO_ORDER_PRICING.asx.json",
+   "fingerprint":"ce585cjGVxS30psoYe4xn2jjLAkY6L/9t7M5LE8EW7mpjdk26TmO7DawYg3Fbxes5UoZ93/IFGsP1QGZf3nMXA=="
+  },
+  {
+   "name":"CLSD ZCL_RO_ORDER_PRICING.abap",
+   "fingerprint":"OrB1ibzZHM/OwKM0fY3yaMV2VRa4i+aIW9GrDcW6tbljAgb+G5gBRh5lQdF6SIBPLDH6K2UZDwkkdjdeBKX7RQ=="
+  },
+  {
+   "name":"CPRI ZCL_RO_ORDER_PRICING.abap",
+   "fingerprint":"aqmN94hEOV3qRZho/gha3rMGfQWsyr1YSJLPYH0QyMHfDNmkdiZ0v8t4P4OH5VmV1cjnMoUvpsVnLzScwihQnw=="
+  },
+  {
+   "name":"CPRO ZCL_RO_ORDER_PRICING.abap",
+   "fingerprint":"mzek62fx0NHpzYOzn1HfRfBA+GcLbAqt4/zwCZjJvI9j2fecytq2p/CVYAZdt8PCkNETCU8ZLHYgDj6sdu7Ouw=="
+  },
+  {
+   "name":"CPUB ZCL_RO_ORDER_PRICING.abap",
+   "fingerprint":"FSvzziY+L4eaFWbwY8nho0dhbi7Qd1tEBjEljet7HNS8LRKU/36TpPNrxiMluvGeorkaWaoh3ymKaBw5YVF+WA=="
+  },
+  {
+   "name":"METH CALCULATE_NET_AMOUNT.abap",
+   "fingerprint":"bALfUh62VUGvRUmckmC8ijNecXN0hqn/OvqlXIh7CuvvqXHowaRIs2bBnb4WGL9EPdIDzvakmmdDD7o3kFLapQ=="
+  },
+  {
+   "name":"METH GET_DISCOUNT_PERCENT.abap",
+   "fingerprint":"EipR6Fi7gL0zwGHaOh1M1VAcfjPYpOB5y18gOggonPfxLMYV4gIdLKPRmHnJ2ND3S7hNtMfKsJN1UFLGAaL6yw=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"fN1YiLyjkHFVakoelYQ54gr21yCpmx9cxtHHde5hb5o1+M78ngNp3f7UxIY20wFoJ38Ckj6QnLNVSM70G170NQ=="
+  },
+  {
+   "name":"REPS ZCL_RO_ORDER_PRICING==========CT.abap",
+   "fingerprint":"aeTqsMOGN0Jzu8bCntuHDV43DgEtvt39zEMn7LH3jUYZEdYMSUpXamyyId0z1UvbXTayrC3K2MvVrqJ2xbazTg=="
+  }
+ ],
+ "fingerprintAll":"fCL7dnxUHZoKWfoKluo/TK+cXgpt4EF6enus3uX6JCsMwPAJ0S+ZRDXHPjsrnWUdplgRlgvwmPknI6ino754rQ=="
+}
