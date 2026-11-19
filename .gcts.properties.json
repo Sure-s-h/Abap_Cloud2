@@ -1,0 +1,12 @@
+{
+  "name": "zrotestsur",
+  "version": "1.0.0",
+  "description": "ZROTESTSUR",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "keepClient": "false"
+  }
+}
