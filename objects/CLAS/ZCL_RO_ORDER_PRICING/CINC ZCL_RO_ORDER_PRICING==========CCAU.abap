@@ -13,7 +13,7 @@ CLASS ltc_order_pricing DEFINITION FINAL
     METHODS zero_amount_no_discount     FOR TESTING.
     METHODS negative_amount_no_discount FOR TESTING.
 
-    " --- Net amount calculation ---
+    " --- Net amount calculation conflict---
     METHODS net_amount_with_discount    FOR TESTING.
     METHODS ignores_zero_quantity       FOR TESTING.
     METHODS negative_quantity_ignored   FOR TESTING.
